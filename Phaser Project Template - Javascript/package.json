@@ -1,0 +1,9 @@
+﻿{
+  "name": "VS-2013-Javascript-Phaser-Template",
+  "version": "0.1.0",
+  "description": "Starter Template for Phaser games using Javascript in VS 2013",
+  "author": "Hover Craftie",
+  "devDependencies": {
+    "phaser": "*"
+  }
+}
