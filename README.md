@@ -1,4 +1,4 @@
-Phaser Project Template Javascript
+Phaser Project Template (JavaScript) For Visual Studio 2013
 ==================================
 
 This is a basic project template for The Phaser HTML Game Engine using JavaScript in Visual Studio 2013
