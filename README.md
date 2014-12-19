@@ -26,11 +26,11 @@ If you have an existing project that you would like to add these basic files to 
 ---
 
 #Installing the Phaser Package:
-Okay so the first thing you might notice when opening up your new project template is that the Phaser package files are actually missing.
+**Okay so the first thing you might notice when opening up your new project template is that the Phaser package files are actually missing.**
 We did not want to include the Phaser files in the project as any new releases of Phaser would invalidate this template.
 There is also no Nuget package for Phaser.
 
-Thankfully Visual Studio has recently added NPM and Grunt support to it's IDE. It's fully baked into VS 2015 but as we are using 2013 we will need to install a couple of extensions to get up and running.
+Thankfully Visual Studio has recently added NPM and Grunt support to it's IDE and there is an NPM Phaser package. For the uninitiated NPM is like a Node version of Nuget. It's fully baked into VS 2015 but as we are using 2013 we will need to install a couple of extensions to get up and running.
 
 ##Pre-Steps
 We have to install Node and NPM. There's no way around this. If we want to use NPM we need to have Node. Don't worry if you're not a command line wiz, we only have to run a couple of commands before returning to Visual Studio.
