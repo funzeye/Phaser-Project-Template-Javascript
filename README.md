@@ -22,6 +22,9 @@ https://visualstudiogallery.msdn.microsoft.com/e6eeccc4-3963-4e3d-8181-77d94ae67
 ##The Manual Way (Ideal for existing projects):
 If you have an existing project that you would like to add these basic files to then you can always just download this GitHub zip file (located as a link on the right of this page) and add in the files you need to the project. We recommend adding in the package.json file (and following instructions below) in order to get the latest Phaser Build.
 
+---
+---
+
 #Installing the Phaser Package:
 Okay so the first thing you might notice when opening up your new project template is that the Phaser package files are actually missing.
 We did not want to include the Phaser files in the project as any new releases of Phaser would invalidate this template.
