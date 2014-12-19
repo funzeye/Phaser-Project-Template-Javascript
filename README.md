@@ -43,8 +43,7 @@ Run this command in the Command Prompt to install Chocolatey:
   @powershell -NoProfile -ExecutionPolicy unrestricted -Command "iex ((new-object     net.webclient).DownloadString('https://chocolatey.org/install.ps1'))" && SET PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin
   ```
 
-2. Install Node and NPM
-Run this command in the Command Prompt to install both Node and NPM:
+2. To install Node and NPM just run the next command in the Command Prompt:
 
   ```
   choco install nodejs
