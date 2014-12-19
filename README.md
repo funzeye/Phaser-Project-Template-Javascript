@@ -37,7 +37,7 @@ We have to install Node and NPM. There's no way around this. If we want to use N
 
 1. Install Chocolatey - This is the easiest way to install Node on Windows (ref: http://www.johnpapa.net/get-up-and-running-with-node-and-visual-studio/)
 
-Run this command in the Command Prompt to install Chocolatey:
+  Run this command in the Command Prompt to install Chocolatey:
 
   ```
   @powershell -NoProfile -ExecutionPolicy unrestricted -Command "iex ((new-object     net.webclient).DownloadString('https://chocolatey.org/install.ps1'))" && SET PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin
