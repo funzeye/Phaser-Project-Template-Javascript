@@ -36,12 +36,16 @@ We have to install Node and NPM. There's no way around this. If we want to use N
 
 Run this command in the Command Prompt to install Chocolatey:
 
+  ```
   @powershell -NoProfile -ExecutionPolicy unrestricted -Command "iex ((new-object     net.webclient).DownloadString('https://chocolatey.org/install.ps1'))" && SET PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin
+  ```
 
 2. Install Node and NPM
 Run this command in the Command Prompt to install both Node and NPM:
 
+  ```
   choco install nodejs
+  ```
 
 3. Install the VS 2013 NPM Extensions
 
