@@ -3,6 +3,8 @@ Phaser Project Template (JavaScript) For Visual Studio 2013
 
 This is a basic project template for The Phaser HTML Game Engine using JavaScript in Visual Studio 2013
 
+TypeScript Version: https://github.com/funzeye/Phaser-Project-Template-TypeScript
+
 #Setup
 ##The Easy Way (Ideal for new projects):
 We have created a VSIX install package that is available within Visual Studio.
