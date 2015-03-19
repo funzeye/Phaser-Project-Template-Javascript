@@ -53,7 +53,7 @@ We have to install Node and NPM. There's no way around this. If we want to use N
 
 3. Install the VS 2013 NPM Extensions
 
-  We need 1 extension installed with 2 other optional installs
+  We need 1 extension installed with 2 other optional installs.
   In the 'Tools - Extensions and Updates...' dialog search for and install 'Grunt Explorer'
   https://visualstudiogallery.msdn.microsoft.com/dcbc5325-79ef-4b72-960e-0a51ee33a0ff
   This wil allow us to easily install the NPM Phaser package.
