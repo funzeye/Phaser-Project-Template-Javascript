@@ -20,7 +20,7 @@
   <ItemGroup>
     <Content Include="app.css" />
     <Content Include="app.js" />
-    <Content Include="img\phaser2.png" />
+    <Content Include="assets\phaser2.png" />
     <Content Include="index.html" />
     <Content Include="web.config">
       <SubType>Designer</SubType>
@@ -34,6 +34,10 @@
     <None Include="web.Release.config">
       <DependentUpon>web.config</DependentUpon>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="assets\spritesheets\" />
+    <Folder Include="assets\tilemaps\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">12.0</VisualStudioVersion>
