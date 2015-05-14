@@ -21,7 +21,12 @@
     <Content Include="app.css" />
     <Content Include="app.js" />
     <Content Include="assets\phaser2.png" />
+    <Content Include="assets\preloader-bar.png" />
+    <Content Include="boot.js" />
+    <Content Include="game.js" />
     <Content Include="index.html" />
+    <Content Include="mainmenu.js" />
+    <Content Include="preloader.js" />
     <Content Include="web.config">
       <SubType>Designer</SubType>
     </Content>

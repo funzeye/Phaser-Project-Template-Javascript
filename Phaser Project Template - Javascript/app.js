@@ -1,15 +1,14 @@
-var game = new Phaser.Game(800, 600, Phaser.AUTO, '', { preload: preload, create: create, update: update });
+window.onload = function () {
 
-function preload() {
-    game.load.image('logo', 'assets/phaser2.png');
-}
+    var game = new Phaser.Game(800, 600, Phaser.AUTO, '');
 
-function create() {
-    var logo = game.add.sprite(game.world.centerX, game.world.centerY, 'logo');
-    logo.anchor.setTo(0.5, 0.5);
-    logo.scale.setTo(0.2, 0.2);
-    game.add.tween(logo.scale).to({ x: 1, y: 1 }, 2000, Phaser.Easing.Bounce.Out, true);
-}
+    //  Add the States your game has.
+    game.state.add('Boot', GameStates.Boot);
+    game.state.add('Preloader', GameStates.Preloader);
+    game.state.add('MainMenu', GameStates.MainMenu);
+    game.state.add('Game', GameStates.Game);
 
-function update() {
-}
+    //  Now start the Boot state.
+    game.state.start('Boot');
+
+};
