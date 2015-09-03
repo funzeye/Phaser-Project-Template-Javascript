@@ -1,9 +1,9 @@
 Phaser Project Template (JavaScript) For Visual Studio
 ==================================
 
-This is a basic project template for The Phaser HTML Game Engine using JavaScript in Visual Studio.
+This is a basic project template for the Phaser HTML Game Engine using JavaScript in Visual Studio.
 
-It can of course be used for non-Visual Studio projects also. Simply download the Zip file and add the contents of the Phaser-Project-Template-Javascript to your project. You can remove the .config files from your project as these as Visual Studio specific. 
+It can of course **be used for non-Visual Studio projects also**. Simply download the Zip file and add the contents of the Phaser-Project-Template-Javascript to your project. You can remove the .config files from your project as these as Visual Studio specific. 
 
 TypeScript Version: https://github.com/funzeye/Phaser-Project-Template-TypeScript
 
