@@ -36,8 +36,11 @@ There is also no Nuget package for Phaser.
 
 Thankfully Visual Studio has recently added NPM and Grunt support to it's IDE and there is an NPM Phaser package. For the uninitiated NPM is like a Node version of Nuget. It's fully baked into VS 2015 but as we are using 2013 we will need to install a couple of extensions to get up and running.
 
-##Pre-Steps
-We have to install Node and NPM. There's no way around this. If we want to use NPM we need to have Node. Don't worry if you're not a command line wiz, we only have to run a couple of commands before returning to Visual Studio.
+##Pre-Steps Visual Studio 2015
+Node, grunt and NPM ship as part of Visual Studio 2015 so no pre-steps are neccessasry!
+
+##Pre-Steps Visual Studio 2013
+We have to install Node and NPM externally. There's no way around this. If we want to use NPM we need to have Node. Don't worry if you're not a command line wiz, we only have to run a couple of commands before returning to Visual Studio.
 
 1. Install Chocolatey - This is the easiest way to install Node on Windows (ref: http://www.johnpapa.net/get-up-and-running-with-node-and-visual-studio/)
 
