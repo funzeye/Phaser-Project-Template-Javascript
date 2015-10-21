@@ -7,7 +7,7 @@ It can of course **be used for non-Visual Studio projects also**. Simply downloa
 
 TypeScript Version: https://github.com/funzeye/Phaser-Project-Template-TypeScript
 
-Still learning about Phaser? Be sure to check out our book ["Making Your First HTML5 Game with Phaser"](leanpub.com/makingyourfirsthtml5gamewithphaser)
+Still learning about Phaser? Be sure to check out our book ["Making Your First HTML5 Game with Phaser"](http://leanpub.com/makingyourfirsthtml5gamewithphaser)
 
 #Setup
 ##The Easy Way (Ideal for new projects):
