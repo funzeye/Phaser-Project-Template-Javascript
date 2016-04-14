@@ -24,6 +24,8 @@
   <ItemGroup>
     <Content Include="app.css" />
     <Content Include="app.js" />
+    <Content Include="assets\phaser2.png" />
+    <Content Include="assets\preloader-bar.png" />
     <Content Include="boot.js" />
     <Content Include="game.js" />
     <Content Include="index.html" />
@@ -42,7 +44,8 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="assets\" />
+    <Folder Include="assets\spritesheets\" />
+    <Folder Include="assets\tilemaps\" />
     <Folder Include="lib\" />
   </ItemGroup>
   <PropertyGroup>
