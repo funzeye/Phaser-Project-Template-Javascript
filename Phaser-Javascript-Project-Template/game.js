@@ -12,7 +12,7 @@ GameStates.Game.prototype = {
         this.add.tween(logo.scale).to({ x: 1, y: 1 }, 2000, Phaser.Easing.Bounce.Out, true);
     },
 
-    update: function () { },
+    update: function () { }, 
 
     render: function () { },
 };
