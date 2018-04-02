@@ -11,7 +11,7 @@ Still learning about Phaser? Be sure to check out our book ["Making Your First H
 
 #Setup
 ##The Easy Way (Ideal for new projects):
-We have created a VSIX install package that is available within Visual Studio.
+We have created a VSIX install package that is available within Visual Studio ([currently over 10k installs](https://marketplace.visualstudio.com/items?itemName=DavidKivlehan.PhaserGameTemplate-JavaScript)!!)
 
 1. Open up Visual Studio
 2. Navigate to 'Tools' -> 'Extensions & Updates...'
